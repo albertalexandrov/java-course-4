@@ -5,6 +5,8 @@
 Выбор каждого участника формируется случайным образом.
  */
 
+package ru.innopolis.homework.four;
+
 import java.util.Random;
 
 public class Task2 {
@@ -25,5 +27,6 @@ public class Task2 {
         } else {
             System.out.println("Победил Петя");
         }
+        var N = Math.abs(1);
     }
 }
